@@ -43,8 +43,8 @@ function handleClick(){
 
   return (
     <>
-      <h1>Meal Generator</h1>
       <div className="search-wrapper">
+        <h1>Meal Generator</h1>
         <button onClick={handleClick}>Create</button>
       </div>
 

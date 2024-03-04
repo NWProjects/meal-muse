@@ -2,4 +2,32 @@
   text-align: center;
 }
 
+.search-wrapper{
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    background: #606c38;
+    color: #dda15e;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
+}
 
+
+
+
+button {
+  padding: 15px 30px; 
+  font-size: 1.2em; 
+  background-color: #bc6c25;
+  color: #fefae0; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+  background-color: #dda15e; 
+}
